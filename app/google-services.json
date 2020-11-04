@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963614768941",
+    "firebase_url": "https://stafflogin-401a0.firebaseio.com",
+    "project_id": "stafflogin-401a0",
+    "storage_bucket": "stafflogin-401a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963614768941:android:a62526405dda46c6011da4",
+        "android_client_info": {
+          "package_name": "student.inti.stafflogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963614768941-gdmtsv5j9lucnionm6oau7ip9lq8l4pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAanpuYUXPy9qWnrYZ5gjkjwKszEvzlYnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963614768941-gdmtsv5j9lucnionm6oau7ip9lq8l4pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
